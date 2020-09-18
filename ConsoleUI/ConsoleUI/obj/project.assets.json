@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    ".NETCoreApp,Version=v3.1": {}
+    ".NETCoreApp,Version=v3.1": {
+      "CoreLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/CoreLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CoreLibrary.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "CoreLibrary/1.0.0": {
+      "type": "project",
+      "path": "../../CoreLibrary/CoreLibrary.csproj",
+      "msbuildProject": "../../CoreLibrary/CoreLibrary.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    ".NETCoreApp,Version=v3.1": []
+    ".NETCoreApp,Version=v3.1": [
+      "CoreLibrary >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\ykatambo\\.nuget\\packages\\": {}
@@ -32,7 +51,11 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Program Files\\Learning\\Csharp\\Dependency-Injection\\CoreLibrary\\CoreLibrary.csproj": {
+              "projectPath": "C:\\Program Files\\Learning\\Csharp\\Dependency-Injection\\CoreLibrary\\CoreLibrary.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

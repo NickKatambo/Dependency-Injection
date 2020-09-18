@@ -1,0 +1,16 @@
+C:\Program Files\Learning\Csharp\Dependency-Injection\ConsoleUI\ConsoleUI\bin\Debug\netcoreapp3.1\ConsoleUI.exe
+C:\Program Files\Learning\Csharp\Dependency-Injection\ConsoleUI\ConsoleUI\bin\Debug\netcoreapp3.1\ConsoleUI.deps.json
+C:\Program Files\Learning\Csharp\Dependency-Injection\ConsoleUI\ConsoleUI\bin\Debug\netcoreapp3.1\ConsoleUI.runtimeconfig.json
+C:\Program Files\Learning\Csharp\Dependency-Injection\ConsoleUI\ConsoleUI\bin\Debug\netcoreapp3.1\ConsoleUI.runtimeconfig.dev.json
+C:\Program Files\Learning\Csharp\Dependency-Injection\ConsoleUI\ConsoleUI\bin\Debug\netcoreapp3.1\ConsoleUI.dll
+C:\Program Files\Learning\Csharp\Dependency-Injection\ConsoleUI\ConsoleUI\bin\Debug\netcoreapp3.1\ConsoleUI.pdb
+C:\Program Files\Learning\Csharp\Dependency-Injection\ConsoleUI\ConsoleUI\bin\Debug\netcoreapp3.1\CoreLibrary.dll
+C:\Program Files\Learning\Csharp\Dependency-Injection\ConsoleUI\ConsoleUI\bin\Debug\netcoreapp3.1\CoreLibrary.pdb
+C:\Program Files\Learning\Csharp\Dependency-Injection\ConsoleUI\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.csprojAssemblyReference.cache
+C:\Program Files\Learning\Csharp\Dependency-Injection\ConsoleUI\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.AssemblyInfoInputs.cache
+C:\Program Files\Learning\Csharp\Dependency-Injection\ConsoleUI\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.AssemblyInfo.cs
+C:\Program Files\Learning\Csharp\Dependency-Injection\ConsoleUI\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.csproj.CoreCompileInputs.cache
+C:\Program Files\Learning\Csharp\Dependency-Injection\ConsoleUI\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.csproj.CopyComplete
+C:\Program Files\Learning\Csharp\Dependency-Injection\ConsoleUI\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.dll
+C:\Program Files\Learning\Csharp\Dependency-Injection\ConsoleUI\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.pdb
+C:\Program Files\Learning\Csharp\Dependency-Injection\ConsoleUI\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.genruntimeconfig.cache

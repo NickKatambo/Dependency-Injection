@@ -1,4 +1,5 @@
-﻿using System;
+﻿using CoreLibrary;
+using System;
 
 namespace ConsoleUI
 {
@@ -6,7 +7,11 @@ namespace ConsoleUI
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            BusinessLogic businessLogic = new BusinessLogic();
+            
+            businessLogic.ProcessData();
+
+            Console.ReadLine();
         }
     }
 }
