@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Z37tNauarmEzLp2YsDILz3fkIJRsFdORMIQGTsmT5IiP4IoZ8yOARoxQS2kZlYxhqv1Pf2UZNWMCEFGnmtzSHw==",
+  "success": true,
+  "projectFilePath": "C:\\Program Files\\Learning\\Csharp\\Dependency-Injection\\CoreLibrary\\CoreLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ykatambo\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\ykatambo\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
