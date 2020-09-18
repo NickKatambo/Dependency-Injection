@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "2v1Zv62ps+KsjgSANXeAq8ESuWaoe1NHYvoPrDkPVU0dU19U/043L6rUXCA86+57cGVIqWqFgI1VgElZXLKzyw==",
+  "dgSpecHash": "44VFNhYBo/S/IwmFD/qiqKCIV5svnfqzwoXOLuNq2Z+B1vhQJzlvWlz3yJ6te3yAaOa5tjppNp6cJG+opfdMVA==",
   "success": true,
   "projectFilePath": "C:\\Program Files\\Learning\\Csharp\\Dependency-Injection\\ConsoleUI\\ConsoleUI\\ConsoleUI.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\ykatambo\\.nuget\\packages\\autofac\\5.2.0\\autofac.5.2.0.nupkg.sha512"
+  ],
   "logs": []
 }

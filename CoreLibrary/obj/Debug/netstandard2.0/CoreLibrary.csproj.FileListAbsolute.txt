@@ -6,3 +6,4 @@ C:\Program Files\Learning\Csharp\Dependency-Injection\CoreLibrary\obj\Debug\nets
 C:\Program Files\Learning\Csharp\Dependency-Injection\CoreLibrary\obj\Debug\netstandard2.0\CoreLibrary.csproj.CoreCompileInputs.cache
 C:\Program Files\Learning\Csharp\Dependency-Injection\CoreLibrary\obj\Debug\netstandard2.0\CoreLibrary.dll
 C:\Program Files\Learning\Csharp\Dependency-Injection\CoreLibrary\obj\Debug\netstandard2.0\CoreLibrary.pdb
+C:\Program Files\Learning\Csharp\Dependency-Injection\CoreLibrary\obj\Debug\netstandard2.0\CoreLibrary.csprojAssemblyReference.cache
